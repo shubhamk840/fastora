@@ -4,7 +4,7 @@ html{
 
 body{
 	font-family: 'Catamaran', sans-serif;
-	background: url("/images/universe.jpg");
+	background: url("../images/universe.jpg");
 	background-size: cover;
 	background-position: center;
 }
