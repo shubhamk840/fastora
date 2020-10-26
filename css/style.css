@@ -4,7 +4,8 @@ html{
 
 body{
 	font-family: 'Catamaran', sans-serif;
-	background: url("https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+	background: url("https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1206");
+
 	background-size: cover;
 	background-position: center;
 }
@@ -22,8 +23,9 @@ body{
 }
 
 .navbar-brand{
-	font-family: 'Catamaran', sans-serif;
-    font-size: 30px;
+font-family: 'Syne Mono', monospace;
+	font-size: 30px;
+	color: #F8D43A !important; 
 
 }
 
@@ -46,6 +48,6 @@ body{
 
 .padding{
     text-align: center;
-	padding-top: 15%;
+	margin-top: 20px;
 
 }
