@@ -1,0 +1,51 @@
+html{
+	height:100%;
+}
+
+body{
+	font-family: 'Catamaran', sans-serif;
+	background: url("/images/universe.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.bg-light{
+	background-color: green;
+}
+.nav-item{
+	font-family: 'Catamaran', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+.nav-link{
+	color:white !important;
+}
+
+.navbar-brand{
+	font-family: 'Catamaran', sans-serif;
+    font-size: 30px;
+
+}
+
+.tab_color{
+	background-color:#232A34;
+}
+
+.nav-link:hover{
+	background-color: blue;
+}
+
+.icon_color_main{
+	color: white;
+}
+
+.center{
+	text-align: center;
+	padding-top:15%;
+}
+
+.padding{
+    text-align: center;
+	padding-top: 15%;
+
+}
